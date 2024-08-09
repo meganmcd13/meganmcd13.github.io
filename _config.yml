@@ -32,7 +32,7 @@ header_pages:
   - hobbies.markdown
 
 # Build settings
-ignore_theme_config: true
+# ignore_theme_config: true
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
