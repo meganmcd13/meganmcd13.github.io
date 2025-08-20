@@ -2,7 +2,7 @@
 layout: page
 title: Skills and experience
 permalink: /skills/
-nav_order: 2
+weight: 2
 ---
 
 <div class="pdf-container">
