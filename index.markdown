@@ -3,14 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: base
-title: Megan E. McDonnell
-omit: true
+header_title: Megan E. McDonnell  # This will be used in the h1 tag
+exclude: true  # This will exclude it from navigation
 ---
 <link rel="stylesheet" href="css/main.css">
 
 <center>
 
-<h1> <strong>{{ page.title }}</strong> </h1>
+<h1> <strong>{{ page.header_title }}</strong> </h1>
 
 <div class="circle-container">
     <img src="{{ '/assets/headshot.jpg' | relative_url }}" alt="Headshot">

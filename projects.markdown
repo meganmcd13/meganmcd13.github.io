@@ -2,6 +2,7 @@
 layout: page
 title: Research projects
 permalink: /projects/
+nav_order: 1
 ---
 
 The brain is the most complex system on earth, and we are still far from understanding the intricacies which allow us to move, think, and feel. My work in my Ph.D. research at Carnegie Mellon University is centered on understanding how cognitive variables like motivation and attention are encoded in different areas of the brain. 
