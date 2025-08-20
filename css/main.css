@@ -34,3 +34,12 @@
     overflow: auto; /* Clear floats and ensure container handles image and text */
 }
 
+.pdf-container {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
