@@ -9,8 +9,6 @@ title: Megan E. McDonnell
 
 <center>
 
-<h1> <strong>{{ page.title }}</strong> </h1>
-
 <div class="circle-container">
     <img src="{{ '/assets/headshot.jpg' | relative_url }}" alt="Headshot">
 </div>
@@ -18,4 +16,4 @@ title: Megan E. McDonnell
 </center>
 <br>
 
-Welcome! I am a 4th year Ph.D. student at Carnegie Mellon University studying Neural Computation with a concentration in machine learning.
+Welcome! I am a 4th year Ph.D. student at Carnegie Mellon University studying Neural Computation with a concentration in machine learning. Check out the other tabs to see what I am working on.
