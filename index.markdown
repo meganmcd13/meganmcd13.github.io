@@ -4,10 +4,13 @@
 
 layout: base
 title: Megan E. McDonnell
+omit: true
 ---
 <link rel="stylesheet" href="css/main.css">
 
 <center>
+
+<h1> <strong>{{ page.title }}</strong> </h1>
 
 <div class="circle-container">
     <img src="{{ '/assets/headshot.jpg' | relative_url }}" alt="Headshot">
